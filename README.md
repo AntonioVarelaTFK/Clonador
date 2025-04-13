@@ -6,12 +6,12 @@ Este script automatiza la clonación de repositorios privados de GitHub en servi
 
 ### Opción 1: Instalación manual
 
-1. Descarga el archivo `.deb` desde la sección de [Releases](https://github.com/antoniovarelaTFK/clonador/releases).
+1. Descarga el archivo `.deb` desde la sección de [Releases](https://github.com/antoniovarelaTFK/Clonador/releases).
 2. Instálalo con: sudo dpkg -i clonador.deb
 
 ### Opción 2: Instalación rápida por terminal
 
-curl -L -o clonador.deb https://github.com/antoniovarelaTFK/clonador/releases/download/v1.0/clonador.deb && sudo dpkg -i clonador.deb
+curl -L -o clonador.deb https://github.com/antoniovarelaTFK/Clonador/releases/download/v1.0/clonador.deb && sudo dpkg -i clonador.deb
 
 ## ✅ Uso
 Tras instalarlo, ejecuta: clonador
