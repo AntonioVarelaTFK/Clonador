@@ -31,6 +31,7 @@ Tras instalarlo, ejecuta: clonador
 1. Ubuntu/Debian con bash
 2. Git y SSH instalados (o posibilidad de instalarlos con el script)
 3. Acceso a repositorios privados por SSH
+4. Tener los permisos para poder crear directorios en el destino
 
 ## 🛠 Autor
 Antonio Varela
